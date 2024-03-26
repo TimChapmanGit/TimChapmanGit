@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimChapmanGit
 - 👀 I’m interested in all aspects of .NET development
-- 🌱 I’m currently sharpening Blazor, Razer, and Angular front end development and EntityFramework
+- 🌱 I’m currently sharpening Blazor, Razor, and Angular front end development and EntityFramework
 - 💞️ I’m looking to collaborate on .Net solutions
 - 📫 How to reach me - LinkedIn
 - 😄 Pronouns: He/Him
